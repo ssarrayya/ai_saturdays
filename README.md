@@ -2,7 +2,7 @@
 
 This is to make me committed to my classes and exercises as part of Cohort 8, AI Saturdays Lagos.
 
-Here you'll find my solutions to class exercises, homeworks and other coursework.
+Here you'll find my solutions to class exercises, homeworks and other coursework from recommended sites like Kaggle, Codewars and Leetcode.
 
 ## Structure
 
